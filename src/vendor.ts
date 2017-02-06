@@ -8,3 +8,6 @@ import '@angular/router';
 
 // RxJS
 import 'rxjs';
+
+// Bootstrap
+import './assets/vendor/bootstrap/bootstrap.scss';
